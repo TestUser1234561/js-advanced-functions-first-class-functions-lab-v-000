@@ -18,3 +18,7 @@ function createFareMultiplier(num) {
 function fareDoubler(num) {
   return num * 2
 }
+
+function fareTripler(n) {
+  return num * 3
+}
