@@ -20,5 +20,5 @@ function fareDoubler(num) {
 }
 
 function fareTripler(n) {
-  return num * 3
+  return n * 3
 }
